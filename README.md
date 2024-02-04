@@ -3,4 +3,4 @@
 
 <link><a href="https://ibb.co/tJhy5FX"><img src="https://i.ibb.co/tJhy5FX/Screenshot-2024-02-04-145208.png" alt="Screen shot webpage" border="0"></a></link>
 
-<link><a href="https://ragnarok344.github.io/Challange-1/"></link>
+[Link text](https://ragnarok344.github.io/Challange-1/ 'Challenge website')
